@@ -53,5 +53,4 @@ Because this is a static page, it can be deployed easily to:
 - Persist user state with localStorage
 - Add modular sections for nutrition, fitness, and mindfulness plans
 
-## License
-This project is currently unlicensed. Add a `LICENSE` file if you want to define usage terms.
+
